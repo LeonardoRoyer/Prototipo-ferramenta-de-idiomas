@@ -1,1 +1,0 @@
-# Prototipo-ferramenta-de-idiomas
